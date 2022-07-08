@@ -1,0 +1,4 @@
+.venv
+**/*/*.pyc
+.env
+**/*/secret_settings.py
